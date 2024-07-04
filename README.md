@@ -1,2 +1,2 @@
-# EmpressaDeMotos
-Sistema Web desenvolvido nas aulas da disciplina de Programação Web 3 do IFPR Campus Telêmaco
+# INF3_A
+Sistema desenvolvido na disciplina de Programação Web I, para a turma "A".
